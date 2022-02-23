@@ -12,19 +12,19 @@ API for fire inspection software, developed in nodejs, express, typescript and m
 
 ## Checklist 
 
--[ ] Database modeling 
--[ ] Database main source code 
--[ ] CRUD Users 
--[ ] CRUD Customers 
--[ ] CRUD Team members 
--[ ] CRUD Equipments
--[ ] CRUD Plans
--[ ] CRUD Subscriptions
--[ ] CRUD Bug Reports
--[ ] Bug report sending to admin dashboard 
--[ ] CRUD Reports 
--[ ] Middleware JWT User auth
--[ ] Selects of all data needed for the dashboard   
+- [ ] Database modeling 
+- [ ] Database main source code 
+- [ ] CRUD Users 
+- [ ] CRUD Customers 
+- [ ] CRUD Team members 
+- [ ] CRUD Equipments
+- [ ] CRUD Plans
+- [ ] CRUD Subscriptions
+- [ ] CRUD Bug Reports
+- [ ] Bug report sending to admin dashboard 
+- [ ] CRUD Reports 
+- [ ] Middleware JWT User auth
+- [ ] Selects of all data needed for the dashboard   
 
 ## Database modeling 
 
